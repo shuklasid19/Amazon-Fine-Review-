@@ -8,13 +8,13 @@ Number of reviews: 568,454 Number of users: 256,059 Number of products: 74,258 T
 
 Attribute Information:
 
-Id
-ProductId - unique identifier for the product
-UserId - unqiue identifier for the user
-ProfileName
-HelpfulnessNumerator - number of users who found the review helpful
-HelpfulnessDenominator - number of users who indicated whether they found the review helpful or not
-Score - rating between 1 and 5
-Time - timestamp for the review
-Summary - brief summary of the review
-Text - text of the review
+1. Id
+2. ProductId - unique identifier for the product
+3. UserId - unqiue identifier for the user
+4. ProfileName
+5. HelpfulnessNumerator - number of users who found the review helpful
+6. HelpfulnessDenominator - number of users who indicated whether they found the review helpful or not
+7. Score - rating between 1 and 5
+8. Time - timestamp for the review
+9. Summary - brief summary of the review
+10. Text - text of the review
